@@ -1,4 +1,3 @@
-
 function palindroma(ask){
     let lenght = ask.length;
     
@@ -10,7 +9,6 @@ function palindroma(ask){
         }
     }
 } 
-
 ask = prompt('Inserire una parola');
 totale = palindroma(ask);
 

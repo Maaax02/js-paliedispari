@@ -27,7 +27,3 @@ function totale(numero){
     }else{
         console.log('ha vinto il numero pari');
     }
-
-
-
-
